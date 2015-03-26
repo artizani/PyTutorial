@@ -1,0 +1,10 @@
+2015-03-25 01:18:06,698 - __main__ - INFO - Hello baby
+2015-03-25 01:19:25,165 - __main__ - INFO - Hello baby
+2015-03-25 01:19:25,166 - __main__ - WARNING - Hello warning
+2015-03-25 01:19:25,166 - __main__ - ERROR - Hello error
+2015-03-25 01:19:32,555 - __main__ - INFO - Hello baby
+2015-03-25 01:19:32,555 - __main__ - WARNING - Hello warning
+2015-03-25 01:19:32,555 - __main__ - ERROR - Hello error
+2015-03-25 01:22:10,864 - __main__ - INFO - Hello baby
+2015-03-25 01:22:10,865 - __main__ - WARNING - Hello warning
+2015-03-25 01:22:10,865 - __main__ - ERROR - Hello error
